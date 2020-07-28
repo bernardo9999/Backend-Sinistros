@@ -1,0 +1,157 @@
+[
+    {
+        "function": "deleteOneCar",
+        "verb": "post",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "initCar",
+        "verb": "post",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "createCar",
+        "verb": "post",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "updateProprietarioCar",
+        "verb": "post",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "getOneCar",
+        "verb": "get",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "getAllCar",
+        "verb": "get",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "getHistoryCar",
+        "verb": "get",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "createSinistro",
+        "verb": "post",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "getOneSinistro",
+        "verb": "get",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "initFinanceiro",
+        "verb": "post",
+        "controller": "FinanceiroController"
+    },
+    {
+        "function": "createFinanceiro",
+        "verb": "post",
+        "controller": "FinanceiroController"
+    },
+    {
+        "function": "updateFinanceiroDataSinistro",
+        "verb": "post",
+        "controller": "FinanceiroController"
+    },
+    {
+        "function": "updateFinanceiroPagoValor",
+        "verb": "post",
+        "controller": "FinanceiroController"
+    },
+    {
+        "function": "transferAssetOwnerFinanceiro",
+        "verb": "post",
+        "controller": "FinanceiroController"
+    },
+    {
+        "function": "deleteOneFinanceiro",
+        "verb": "post",
+        "controller": "FinanceiroController"
+    },
+    {
+        "function": "getOneFinanceiro",
+        "verb": "get",
+        "controller": "FinanceiroController"
+    },
+    {
+        "function": "getAllFinanceiro",
+        "verb": "get",
+        "controller": "FinanceiroController"
+    },
+    {
+        "function": "getHistoryFinanceiro",
+        "verb": "get",
+        "controller": "FinanceiroController"
+    },
+    {
+        "function": "initMultas",
+        "verb": "post",
+        "controller": "MultasController"
+    },
+    {
+        "function": "createMultas",
+        "verb": "post",
+        "controller": "MultasController"
+    },
+    {
+        "function": "getOneMultas",
+        "verb": "get",
+        "controller": "MultasController"
+    },
+    {
+        "function": "getAllMultas",
+        "verb": "get",
+        "controller": "MultasController"
+    },
+    {
+        "function": "getHistoryMultas",
+        "verb": "get",
+        "controller": "MultasController"
+    },
+    {
+        "function": "updateMultasPagoValor",
+        "verb": "post",
+        "controller": "MultasController"
+    },
+    {
+        "function": "getOneParticipant",
+        "verb": "get",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "registerParticipant",
+        "verb": "post",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "changeParticipantIdentity",
+        "verb": "post",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "transferAssetOwnerCar",
+        "verb": "post",
+        "controller": "FabcarController"
+    },
+    {
+        "function": "registerParticipant",
+        "verb": "post",
+        "controller": "FinanceiroController"
+    },
+    {
+        "function": "changeParticipantIdentity",
+        "verb": "post",
+        "controller": "FinanceiroController"
+    },
+    {
+        "function": "getOneParticipant",
+        "verb": "get",
+        "controller": "FinanceiroController"
+    }
+]

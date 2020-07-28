@@ -1,0 +1,17 @@
+  {
+    "channels": ["ch1"],
+    "topology": {
+      "org1": {
+        "channels": ["ch1"],
+        "users": ["PSSinistros","PSCarros"]
+      },
+      "org2": {
+        "channels": ["ch1"],
+        "users": ["PSSinistros", "BCFinancas"]
+      },
+      "org3": {
+        "channels": ["ch1"],
+        "users": ["Publico"]
+      }
+    }
+  }
